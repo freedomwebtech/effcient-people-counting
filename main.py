@@ -3,7 +3,7 @@ import pandas as pd
 from ultralytics import YOLO
 import cvzone
 import numpy as np
-from tracker import*
+
 
 
 model=YOLO('yolov8s.pt')
